@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Users/PC/mp2-lab1-bitfield/src/CMakeLists.txt
-  tbitfield.cpp
-C:\Users\PC\mp2-lab1-bitfield\src\tbitfield.cpp(96,6): warning C4101: len: неиспользованная локальная переменная
-C:\Users\PC\mp2-lab1-bitfield\src\tbitfield.cpp(111,6): warning C4101: len: неиспользованная локальная переменная
-  tset.cpp
-  Создание кода...
-  set.vcxproj -> C:\Users\PC\mp2-lab1-bitfield\build\lib\Debug\set.lib
